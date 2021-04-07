@@ -8,7 +8,7 @@ Desde 2009 vivemos como loucos atrás de mentes apaixonadas por tecnologia, aque
 Atualmente contamos com cerca de 10 desenvolvedores entre juniors, plenos, mobile, front end e back end. Temos a cultura forte de compartilhar conhecimento, ajudar e incentivar a nossa equipe, além de contar piadas sem graças e mandar memes no Discord.
 
 ### Descrição
-Olá, meu nome é João, trabalho em um cinema e como estamos com muitos lançamentos de novos filmes, precisamos catalogar e organizar os filmes em algum sistema que eu pudesse também além de cadastrar e listar, eu conseguisse de alguma forma ordernar e realizar a paginação dos filmes. Você pode me ajudar?
+Olá, meu nome é João, trabalho em um cinema e atualmente estamos com muitos lançamentos de novos filmes, precisamos catalogá-los e organizá-los em algum sistema onde fosse possível, além de cadastrar e listar, ordenar e realizar a paginação dos filmes. Você pode me ajudar?
 
 ### Requisitos Técnicos 😁
 - NodeJS ✔
