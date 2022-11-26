@@ -33,6 +33,6 @@ Olá, meu nome é João, trabalho em um cinema e atualmente estamos com muitos l
 - DDD
 
 ### Ao finalizar
-Assim que finalizar o teste, envie o link do repositório para esse e-mail: yukihiro@mestresdaweb.com.br
+Assim que finalizar o teste, envie o link do repositório para esse e-mail: fabio@mestresdaweb.com.br
 
 ![Alt Text](https://tenor.com/view/ednaldo-pereira-vale-nada-clone-worthless-funny-gif-17809469.gif)
