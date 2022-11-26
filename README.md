@@ -5,7 +5,7 @@
 Desde 2009 vivemos como loucos atrás de mentes apaixonadas por tecnologia, aqueles que nunca ficam contentes com o que sabem, eles sempre querem mais. Somos Beta porque nunca chegamos onde queremos e nunca sabemos o bastante, o conhecimento é nosso alimento, comemos todos os dias.
 
 ### Sobre o ambiente de trabalho
-Atualmente contamos com cerca de 10 desenvolvedores entre juniors, plenos, mobile, front end e back end. Temos a cultura forte de compartilhar conhecimento, ajudar e incentivar a nossa equipe, além de contar piadas sem graças e mandar memes no Discord.
+Atualmente contamos com cerca de 35 desenvolvedores entre juniors, plenos, mobile, front end e back end. Temos a cultura forte de compartilhar conhecimento, ajudar e incentivar a nossa equipe, além de contar piadas sem graças e mandar memes no Discord.
 
 ### Descrição
 Olá, meu nome é João, trabalho em um cinema e atualmente estamos com muitos lançamentos de novos filmes, precisamos catalogá-los e organizá-los em algum sistema onde fosse possível, além de cadastrar e listar, ordenar e realizar a paginação dos filmes. Você pode me ajudar?
